@@ -74,11 +74,9 @@ Expérience pratique dans la gestion d’incidents cyber et l’utilisation d’
 
 📌 Informations complémentaires
 
-Auteur / Builder : Zakaria
+ Builder : Zakaria
 
 Projet réalisé dans le cadre du Projet de Fin d’Études (PFE) – Cybersécurité
-
-YouTube / Série tutorielle : Ma chaîne Cyber Security Lab
 
 ⚡ Conseils pour l’utilisation
 
