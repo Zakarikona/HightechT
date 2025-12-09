@@ -1,6 +1,5 @@
 🛡️ Cyber Security Lab — TheHive, Cortex & MISP (Dockerized SOC Stack)
 📄 Présentation du projet
-# Hightech PFE Coneteunirisation de MSIP-CORTEX ET Centralisation using TheHive 5
 Ce projet fait partie de mon Projet de Fin d’Études (PFE) en cybersécurité. L’objectif principal est de concevoir, déployer et intégrer une stack SOC open-source fonctionnelle comprenant :
 
 TheHive : Plateforme de gestion et d’investigation des incidents.
